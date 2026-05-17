@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Books",
+        "amount": 4.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "Transportation ",
+        "amount": 300.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "Foods",
+        "amount": 120.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "T-shirt",
+        "amount": 120.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "School Supplies",
+        "amount": 120.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "Fishballs",
+        "amount": 70.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "Keyboard ",
+        "amount": 250.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "Keyboard ",
+        "amount": 900.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "MilkTea ",
+        "amount": 70.0,
+        "date": "2026-05-14"
+    },
+    {
+        "category": "FOOD EXPENSE ",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "Food expesne",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "Food & Transportation",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "FOOD EXPENSE",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "Food expense ",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "Food Expense ",
+        "amount": 600.0,
+        "date": "2026-05-16"
+    },
+    {
+        "category": "FOOD EXPENSE ",
+        "amount": 200.0,
+        "date": "2026-05-16"
+    }
+]
